@@ -33,3 +33,4 @@ Narrativa (Oficina mecânica de automóveis):
 
 (Com base no modelo de Máximo Rodrigues e nos comentários de Danilo Saraiva)
 
+Finalizado em 02 de Setembro de 2022.
