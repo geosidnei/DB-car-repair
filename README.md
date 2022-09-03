@@ -28,3 +28,5 @@ Narrativa (Oficina mecânica de automóveis):
 * Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
 
 * Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
+
+(Com base no modelo de Máximo Rodrigues e nos comentários de Danilo Saraiva)
