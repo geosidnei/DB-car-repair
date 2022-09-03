@@ -29,4 +29,8 @@ Narrativa (Oficina mecânica de automóveis):
 
 * Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
 
+
+![automecanica](https://github.com/geosidnei/DB-ecommerce-DIO/blob/main/e-commerce-refinado.png)
+
 (Com base no modelo de Máximo Rodrigues e nos comentários de Danilo Saraiva)
+
